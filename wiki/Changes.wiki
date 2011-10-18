@@ -1,0 +1,14 @@
+#summary Changes that have been made
+#labels Featured,Phase-Implementation
+
+= Introduction =
+
+This page should detail the changes that have been made to the CSH-version of SWAT 4.
+
+= Configuration =
+  * All guns have flashlights
+  * Default difficulty is elite
+  * Default player name is CSHer
+  * Default multiplayer game type is COOP
+  * Faction-specific weapons default to off
+  * Improved description for AK-47
