@@ -1,0 +1,16 @@
+#summary Changes that are allowed and encouraged to be made
+#labels Featured,Phase-Requirements,Phase-Design
+
+= Additions =
+
+  * Mods
+  * Skins/Models/Voices
+  * Weapons
+  * Maps
+  * Missions
+
+= Editions =
+  
+  * Non-gamebreaking changes to configuration
+  * Cosmetic changes
+  * CSH-themed editions  
