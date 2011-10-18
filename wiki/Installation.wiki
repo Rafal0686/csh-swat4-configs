@@ -7,7 +7,7 @@ This will lead you through installing SWAT 4 and configuring it and TortoiseSVN 
 
 = Details =
 
-If you don't own a copy of the game, you'll need to purchase it from [http://www.direct2drive.com/347/product/Buy-Swat-4-Gold-Download Direct2Drive]
+If you don't own a copy of the game, you'll need to purchase it from [http://www.direct2drive.com/347/product/Buy-Swat-4-Gold-Download Direct2Drive] or from a shady deal who may or may not be located off-shore.
 
 == SWAT 4 Installation ==
 
