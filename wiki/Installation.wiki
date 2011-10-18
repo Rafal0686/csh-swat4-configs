@@ -17,3 +17,20 @@ Install SWAT 4 somewhere under your user directory, so that TortoiseSVN doesn't 
   * DO install the expansion
 
 == TortoiseSVN ==
+
+Install TortoiseSVN normally. Install the command line tools.
+
+=== Syncing with Google Code repo ===
+
+First, you need to tell TortoiseSVN that your Swat 4 folder has some SVN shit in it.
+
+  # Right-click in the `SWAT 4` folder, and select `SVN Checkout`
+  # Enter `https://csh-swat4-configs.googlecode.com/svn/trunk/` as the repo URL
+  # Change checkout directory to the top level of the SWAT 4 installation folder
+  # Click OK
+
+Before playing with other CSHers, it's a good idea to manually sync to the Google Code repo. To sync:
+
+  # Right-click your SWAT 4 folder
+  # Click `SVN Update`
+  # Enjoy!
