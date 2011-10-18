@@ -1,0 +1,17 @@
+#summary Installing SWAT 4 the correct way
+#labels Featured,Phase-Deploy
+
+= Introduction =
+
+This will lead you through installing SWAT 4 and configuring it and TortoiseSVN to work with our configs.
+
+= Details =
+
+== SWAT 4 Installation ==
+
+Install SWAT 4 somewhere under your user directory, so that TortoiseSVN doesn't need admin privs to write to it all of the time. Something like `C:\Users\will\SWAT 4` will work perfectly.
+
+  * DO NOT install Gamespy Arcade
+  * DO install the expansion
+
+== TortoiseSVN ==
