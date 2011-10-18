@@ -16,6 +16,10 @@ Install SWAT 4 somewhere under your user directory, so that TortoiseSVN doesn't 
   * DO NOT install Gamespy Arcade
   * DO install the expansion
 
+=== Windows 7 Notes ===
+
+I needed to disable compositing and disable Aero to get the game to run correctly.
+
 == TortoiseSVN ==
 
 Install TortoiseSVN normally. Install the command line tools.
